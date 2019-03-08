@@ -13,9 +13,10 @@ https//codepen.io/stken2050/embed/RdpXpp/?height=300&theme-id=36003&default-tab=
 
 ![](https://stken2050.github.io/medium/imgs/editon.png)
 
-2. Click **EDIT ON CODEPEN**
+2. Click **Falk**
 
-![](https://stken2050.github.io/medium/imgs/editon.png)
+![](https://stken2050.github.io/medium/imgs/fork.png)
+
 
 ## With "Run" and "Clear" buttons
 
